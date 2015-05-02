@@ -4,7 +4,7 @@ baseurl: /everestwinter
 pygments: true
 paginate: 8
 description:     ISusu Home
-info:家园
+info:Home
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
