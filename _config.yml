@@ -1,5 +1,6 @@
 name: White Paper
 markdown: redcarpet
+baseurl: /everestwinter
 pygments: true
 url: http://vinitkumar.me/white-paper
 paginate: 8
