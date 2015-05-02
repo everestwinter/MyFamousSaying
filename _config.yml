@@ -2,10 +2,9 @@ name: White Paper
 markdown: redcarpet
 baseurl: /everestwinter
 pygments: true
-url: http://vinitkumar.me/white-paper
 paginate: 8
 description:     ISusu Home
-info:å®¶å›­
+info:¼ÒÔ°
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
