@@ -4,7 +4,8 @@ baseurl: /everestwinter
 pygments: true
 url: http://vinitkumar.me/white-paper
 paginate: 8
-description:ISusu Home
+description:     ISusu Home
+info:家园
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
