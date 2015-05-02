@@ -3,8 +3,7 @@ markdown: redcarpet
 pygments: true
 url: http://vinitkumar.me/white-paper
 paginate: 8
-description:     Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
+description: My World
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
