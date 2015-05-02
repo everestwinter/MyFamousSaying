@@ -17,7 +17,7 @@ tagline: Our World……
       		</div> 
 		{{ post.content  | | split:'<!--break-->' | first }}
 	<div class = "read_more">
-		<a class="fa fa-link" href="{{ BASE_PATH }}{{ post.url }}">  View&hellip;</a>
+		<a class="fa fa-link" href="{{ post.url }}">  View&hellip;</a>
 	</div>
 	
 </div>
