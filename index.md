@@ -4,7 +4,7 @@ The world is full of danger.So I think the most important thing,every day when y
 
 I do have nothing,but I left a lot.
 
-This is a diary ,recording something happened,something will happen.
+This is a diary ,recording something happened,something happening,something will happen.
 
 And at last,your things no one can remember forever,only when your change the life for the later people.
 
@@ -15,6 +15,6 @@ And at last,your things no one can remember forever,only when your change the li
 
 我确实没有什么，但我留下一些什么。
 
-这是一个备忘录 ,记录已经发生的事情,即将要发生的事情.
+这是一个备忘录 ,记录已经发生的事情,正在发生的事情，即将要发生的事情.
 
-最后，你所经历的事情，也许没人记得，只有在你改变后人的时候，人们会记住你。
+最后，你所经历的事情，也许没人记得，只有在你改变后来人的时候，人们会记住你。
